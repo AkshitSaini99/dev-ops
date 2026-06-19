@@ -1,2 +1,3 @@
 wellcome 
 Create a file named as sample 1. Add a measege wellcome to devops kingdom.Check the status and commit this file
+Create a  file name dash subject add  English, hindi, maths . comit this file then add science, sanskrit, to tje file subject and move to stash . then bring back science and sanskrit from stash. NOTE all the subject should be reflected in the subject file
